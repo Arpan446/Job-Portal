@@ -1,0 +1,16 @@
+[
+    {
+    "id": 4,
+    "companyName": "Raycast corp",
+    "jobTitle": "UI/UX Designer",
+    "companyLogo": "/images/Raycast.png",
+    "minPrice": "40",
+    "maxPrice": "50",
+    "salaryType": "Monthly",
+    "jobLocation": "London",
+    "postingDate": "2024-6-21",
+    "experienceLevel": "Work remotely",
+    "employmentType": "Part-time",
+    "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+  }
+]
